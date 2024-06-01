@@ -1,0 +1,42 @@
+
+
+
+
+.ant-menu-dark .ant-menu-item-selected {
+  background-color: #FF7900;
+  width: 0 ;
+  height: 150%;
+  width: auto;
+  border-radius: 0px;
+}
+
+.anticon {
+  font-size: 19px;
+}
+
+.custom-sider .ant-layout-sider-trigger {
+  background-color: #000000;
+}
+
+
+.custom-sider .ant-layout-sider-trigger i {
+  color: #ffffff; 
+}
+.custom-form .ant-form-item-label {
+  width: 250px;
+  overflow:hidden;
+  text-align: left !important;
+}
+
+/* .custom-sider .ant-menu-item {
+  padding-bottom: 25px; 
+  padding-top: 25px; 
+  display: flex;
+  flex-direction: column;
+} */
+
+
+
+.ant-menu-vertical >.ant-menu-item {
+  height: auto;
+}
